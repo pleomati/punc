@@ -24,7 +24,7 @@ A comprehensive network monitoring and firewall management tool with process con
    ```bash
    pip install -r requirements.txt
 
-3.Run the application as administrator:
+3. Run the application as administrator:
    ```bash
    python PUNC.py
 
