@@ -41,4 +41,28 @@ The application has several tabs with different functionalities:
 - Administrator privileges for full functionality
 - Internet connection for IP lookup and speed testing
 	
+Compiling to an executable file
+To compile the program into a stand-alone .exe file (Windows):
+
+- Requirements for compilation:
+    
+    ```bash
+    pip install nuitka
+
+- Run command:
+
+    ```bash
+    Compiling to an executable file
+To compile the program into a stand-alone .exe file (Windows):
+
+- Requirements for compilation:
+    
+    ```bash
+    pip install nuitka
+
+- Run command:
+
+    ```bash
+    nuitka --onefile --standalone --follow-imports --windows-console-mode=disable --windows-icon-from-ico=icon.ico --include-data-files=C:\Path\to\icon.ico=icon.ico --enable-plugin=tk-inter --enable-plugin=pylint-warnings  --windows-uac-admin PUNC.py
+
 
