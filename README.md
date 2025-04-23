@@ -49,10 +49,6 @@ To compile the program into a stand-alone .exe file (Windows):
     ```bash
     pip install nuitka
 
-- Run command:
-
-    ```bash
-    Compiling to an executable file
 To compile the program into a stand-alone .exe file (Windows):
 
 - Requirements for compilation:
