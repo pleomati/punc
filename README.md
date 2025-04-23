@@ -37,7 +37,7 @@ The application has several tabs with different functionalities:
 - IP - IP lookup and geolocation tools
 
 ## Requirements
-- Windows operating system (uses Windows firewall commands)
+- Windows 7/8/10/11
 - Administrator privileges for full functionality
 - Internet connection for IP lookup and speed testing
 	
