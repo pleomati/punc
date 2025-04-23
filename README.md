@@ -29,8 +29,6 @@ A comprehensive network monitoring and firewall management tool with process con
    python PUNC.py
 
 
-## Usage
-
 The application has several tabs with different functionalities:
 - Processes - View and manage network-connected processes
 - Blocked Apps - Manage blocked applications list
